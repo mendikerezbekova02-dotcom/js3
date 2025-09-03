@@ -1,4 +1,4 @@
-//условия (if else, swich), операторы
+//условия (if else, swich), mendi
 
 //boolean true, false
 
